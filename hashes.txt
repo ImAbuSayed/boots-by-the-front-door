@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Boots by the Front Door
+
+This log tracks the cryptographic history and versioning for the song **Boots by the Front Door** (boots-by-the-front-door).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:53:29.447871 | `v1` | `4e2d52c9f18552973559c6f1d991d7c64009d8419c8f08ff44344e03493ab8be` | `988a350418510e32f40a683ec2fe404941a8a49fdc8d1079d6c9608997b1b71e` | `2026-05-23_boots-by-the-front-door-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
