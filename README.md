@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see your shadow dancing in the hall
+> You left your boots by the front door, leaning on the wall
+> Come a little closer, let the silence fall
+> I got exactly what you need, just waiting on your call
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
